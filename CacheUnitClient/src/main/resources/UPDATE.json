@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "action": "UPDATE"
+  },
+  "body": [{
+      "id": 777777,
+      "content": "some string"},
+      {
+        "id": 888888,
+        "content": "e string"
+      },
+      {
+        "id": 999999,
+        "content": "some ing"
+      },
+      {
+        "id": 100000,
+        "content": "se string"
+      }
+  ]
+}

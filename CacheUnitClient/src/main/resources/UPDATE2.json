@@ -1,0 +1,9 @@
+{
+  "headers": {
+    "action": "UPDATE"
+  },
+  "body": [{
+      "id": 6666666,
+      "content": "checking"}
+  ]
+}
